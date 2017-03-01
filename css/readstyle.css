@@ -1,0 +1,25 @@
+.content {
+  width: 1000px;
+  margin: 0 auto;
+  float: center;
+  padding: 10px;
+  border:dashed 1px gray;
+  background: grey;
+}
+.judul {
+	color: red;
+	font-size: 2rem;
+	width: 1000px;
+}
+.contents {
+	color: yellow;
+	font-size: 1rem;
+}
+body {
+	margin-top: 0 auto;	
+}
+li a {
+	padding: 10px 30px;
+	padding-bottom: 20px;
+    
+}

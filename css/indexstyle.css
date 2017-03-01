@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: url(http://hdwallpaper1920x1080.com/wp-content/uploads/2015/05/Wet-Asphalt-Flat-UI-Color-Background.jpg) fixed center center;
+  font-family: "Montserrat";
+  color: #c526bf;
+}
+
+header{
+  margin-bottom: 20px;
+}
+
+nav {
+  background-color: green;
+}
+#logout {
+  float: left;
+}
+ul{
+  list-style: none;
+  /*text-align: center;*/
+
+}
+
+li{
+  display: inline-block;
+}
+
+li a{
+  text-decoration: none;
+  color: #FFF;
+  display: block;
+  padding-right: 100px;
+}
+
+li a:hover{
+  background-color:rgba(26, 188, 156,0.6);
+}
+
+li a:active{
+  background-color:rgba(26, 188, 156,0.30);
+}
+
+section{
+  margin: 0 50px;
+}
+
+p{
+  text-align: justify;
+  margin-bottom: 10px;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  float: center;
+  padding: 10px;
+  border:dashed 1px gray;
+  background: grey;
+}
+.containers {
+  width: 1000px;
+  margin: 0 auto;
+  float: center;
+  padding: 10px;
+  border:dashed 1px gray;
+  background: grey;
+  color: yellow;
+  font-size: 40;
+}
+td a:hover{
+  background-color:pink;
+  font-color: orange;
+}
+li {
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
